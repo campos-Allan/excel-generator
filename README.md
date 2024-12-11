@@ -7,4 +7,4 @@ It’s not possible to share the files and info's that this script was using it,
 Basic script that picks a spreadsheet model based on the month in question, changes a few cells to update the queries and then saves this spreadsheet with specific name formatting.
 
 ## Tools
-Useing 'win32com.client' and 'datetime'.
+Using 'win32com.client' and 'datetime'.
